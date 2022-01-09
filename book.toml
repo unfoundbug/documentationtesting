@@ -1,0 +1,6 @@
+[book]
+authors = ["chrys"]
+language = "en"
+multilingual = false
+src = "src"
+title = "DocumentationTesting"
